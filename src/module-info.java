@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author SSanj
+ *
+ */
+module Java {
+}
